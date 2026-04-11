@@ -9,7 +9,7 @@ Privacy-first voice, video, and text chat for gaming communities.
 1. Install [Obtainium](https://obtainium.imranr.dev/) on your Android device
 2. Add this URL as a new app source:
    ```
-   [https://github.com/GameVoxVoice/Android-Client](https://github.com/GameVoxVoice/Android-Releases)
+   https://github.com/GameVoxVoice/Android-Releases
    ```
 3. Obtainium will automatically detect new releases and notify you of updates
 
