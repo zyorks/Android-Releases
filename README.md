@@ -15,7 +15,7 @@ Privacy-first voice, video, and text chat for gaming communities.
 
 ## Direct Download
 
-You can also download the latest APK directly from the [Releases](https://github.com/GameVoxVoice/Android-Client/releases) page.
+You can also download the latest APK directly from the [Releases]([https://github.com/GameVoxVoice/Android-Client/releases](https://github.com/GameVoxVoice/Android-Releases)) page.
 
 ## Requirements
 
