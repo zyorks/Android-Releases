@@ -20,10 +20,10 @@ This repository hosts official GameVox Android APK builds. If you're not on the 
 [Obtainium](https://obtainium.imranr.dev/) is a free, open-source Android app that tracks GitHub releases and keeps your apps updated automatically.
 
 1. Install [Obtainium](https://obtainium.imranr.dev/) on your Android device
-2. Add this repository URL: `https://github.com/GameVoxVoice/gamevox-releases`
+2. Add this repository URL: `https://github.com/GameVoxVoice/Android-Releases`
 3. Obtainium will notify you when new builds are available
 
-You can also download APKs directly from the [Releases](https://github.com/GameVoxVoice/gamevox-releases/releases) page and sideload manually.
+You can also download APKs directly from the [Releases](https://github.com/GameVoxVoice/Android-Releases/releases) page and sideload manually.
 
 ## About GameVox
 
