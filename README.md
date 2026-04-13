@@ -1,27 +1,59 @@
-# Gamevox for Android
+<p align="center">
+  <a href="https://gamevox.com">
+    <img src="https://github.com/GameVoxVoice/.github/raw/master/Assets/Banner.png" alt="GameVox" width="600" />
+  </a>
+</p>
 
-Privacy-first voice, video, and text chat for gaming communities.
+<p align="center">
+  <b>Official Android releases for GameVox</b><br>
+   Put the fun back in your gaming community. Your space, your rules. No mandatory ID.
+</p>
 
-## Install via Obtainium
+---
 
-[Obtainium](https://obtainium.imranr.dev/) lets you install and auto-update Gamevox directly from this repo — no app store needed.
+## What is this repo?
+
+This repository hosts official GameVox Android APK builds. If you're not on the Google Play Store (listing planned), this is the recommended way to install GameVox on Android.
+
+## Install with Obtainium
+
+[Obtainium](https://obtainium.imranr.dev/) is a free, open-source Android app that tracks GitHub releases and keeps your apps updated automatically.
 
 1. Install [Obtainium](https://obtainium.imranr.dev/) on your Android device
-2. Add this URL as a new app source:
-   ```
-   https://github.com/GameVoxVoice/Android-Releases
-   ```
-3. Obtainium will automatically detect new releases and notify you of updates
+2. Add this repository URL: `https://github.com/GameVoxVoice/gamevox-releases`
+3. Obtainium will notify you when new builds are available
 
-## Direct Download
+You can also download APKs directly from the [Releases](https://github.com/GameVoxVoice/gamevox-releases/releases) page and sideload manually.
 
-You can also download the latest APK directly from the [Releases]([https://github.com/GameVoxVoice/Android-Client/releases](https://github.com/GameVoxVoice/Android-Releases)) page.
+## About GameVox
 
-## Requirements
+[GameVox](https://gamevox.com) is a privacy-first voice, video, and text chat platform built for gaming communities. Currently in open beta across six platforms.
 
-- Android 8.0 (Oreo) or higher
+- **No email or ID needed** to sign up
+- **Voice is end-to-end encrypted** (X25519 + NaCl secretbox)
+- **No ads, no data sales, no tracking**
+- Free core experience with optional per-server upgrades
+
+Built by [LightSpeed Gaming LLC](https://lightspeedgaming.com), an independent, self-funded company with well over a decade of experience in voice communication and game server hosting.
+
+## All Platforms
+
+| Platform | Status |
+|----------|--------|
+| Windows (10/11) | Available |
+| macOS (11+, Intel & Apple Silicon) | Available |
+| Linux (Ubuntu, Debian, Fedora, Arch, SteamOS) | Available |
+| iOS | App Store |
+| Android | This repo / Google Play Store planned |
+| Web | Available |
+
+Download at [gamevox.com](https://gamevox.com).
 
 ## Links
 
-- [Website](https://gamevox.com)
-- [FAQ](https://gamevox.com/faq)
+- [GameVox](https://gamevox.com)
+- [X (Twitter)](https://x.com/GameVoxApp)
+- [Reddit](https://reddit.com/r/GameVoxApp)
+- [Official Server](https://gamevox.com/gamevox1)
+- [Privacy Policy](https://gamevox.com/privacy.html)
+- Support: support@gamevox.com
